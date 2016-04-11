@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blooming Springs Resort]]></title>
-        <description><![CDATA[Blooming Springs Resort]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Outdoor Entertainment and Resort ]]></title>
+        <description><![CDATA[Outdoor Entertainment and Resort ]]></description>
+        <link>https://thegrid.ai/blooming-springs-resort/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:16:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 14:45:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blooming-springs-resort/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Resort]]></title>
             <description><![CDATA[<article><h1>Resort</h1><p>Welcome to the new way of life. Set out in the queer outskirts of the Rasesa Village, nestled in the hillsides of the Marotobolo plains. Blooming Springs Resort is a living testimony of a unique combination of luxury outdoor living, fused with a touch of modern contemporary artistry.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e5e386d-0d10-4b5e-89c0-202a8a514141.jpg"></article>]]></description>
-            <link>undefinedresort/index.html</link>
+            <link>https://thegrid.ai/blooming-springs-resort/resort/index.html</link>
             <guid isPermaLink="false">e7393a1e-1500-433a-8415-5fe298fa53c3</guid>
-            <pubDate>Mon, 11 Apr 2016 14:16:46 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 14:45:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
