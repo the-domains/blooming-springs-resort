@@ -1,0 +1,28 @@
+name: Blooming Springs Resort
+favicon: null
+layout_spectrum: 0.036577424965798855
+typography_spectrum: 0.5461681133601815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23586815665476024
+  lightness: 0.6177657535299659
+  saturation: 0.13480159058235586
+  rhythmicContrast: 0.5444173037540168
+purpose: []
